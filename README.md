@@ -6,8 +6,11 @@ This project presents a dynamic Live Weather Dashboard built using data fetched 
 # Tech Stack
 
 Power BI: For data modeling, visualization, and dashboard creation.
+
 Web API: Utilized to retrieve real-time weather data.
+
 Power Query: Used for data cleaning and transformation.
+
 DAX: Employed to create measures for forecast day and hour.
 
 # Key Performance Indicators (KPIs)
